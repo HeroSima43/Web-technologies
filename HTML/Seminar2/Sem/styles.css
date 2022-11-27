@@ -1,0 +1,15 @@
+.myclass {
+    width: 40vw;
+}
+html {
+    background-color: antiquewhite;
+}
+h1 {
+    background-color: chocolate;
+    color: rgba(38, 14, 126, 0.911);
+}
+a {
+    text-shadow: 2px 2px 2px blue;
+    color: brown;
+    font-size: xx-large;
+}
